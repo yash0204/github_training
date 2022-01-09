@@ -1,1 +1,2 @@
 Test for commit 1
+This is the line updated from user John
